@@ -1,0 +1,19 @@
+# Maven
+target/
+
+# IntelliJ
+.idea/
+*.iml
+
+# Eclipse
+.project
+.classpath
+.metadata/
+.settings/
+
+# NodeJS & Outros
+src/main/generated-sources/
+src/main/webapp/appfusion/app/
+src/main/webapp/appfusion/index.html
+src/main/frontend/node/
+src/main/frontend/node_modules/
